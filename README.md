@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danielflame
 - 👀 I’m interested in Javascript and Web 3.0
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Javascript (React.js and Node.js)
 - 💞️ I’m looking to collaborate on Entry Level Javascript projects
 - 📫 You can reach me via <a href="https://twitter.com/daniel__flame">DanielFlame</a>
 <!---
